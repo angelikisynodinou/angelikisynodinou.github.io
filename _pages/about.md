@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi 👋, I am Angeliki!, currently serving as a **Business Analyst** for <a href="https://www.novibet.com/sports">Novibet</a>, a premier online gambling company operating across multiple countries worldwide. Before undertaking my current role, I held the position of **Product Owner** at the same company, where I managed and executed a multitude of critical projects by leveraging my industry knowledge and analytical skills.
+Hi 👋, I am Angeliki!!, currently serving as a **Business Analyst** for <a href="https://www.novibet.com/sports">Novibet</a>, a premier online gambling company operating across multiple countries worldwide. Before undertaking my current role, I held the position of **Product Owner** at the same company, where I managed and executed a multitude of critical projects by leveraging my industry knowledge and analytical skills.
 
 Throughout my years in the *gambling industry*, I have gained a wide range of experiences and developed a deep understanding of its various intricacies. On the educational front, my journey began with a Bachelor's degree in **Networks and Communications** before I transitioned into business analysis and project management, roles that I have found both challenging and rewarding.
 
