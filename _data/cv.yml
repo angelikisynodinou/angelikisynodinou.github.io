@@ -2,96 +2,67 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Angeliki Synodinou
+    - name: Address
+      value: Luxembourg 🇱🇺
     - name: Languages
-      value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      value: <b>English</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <i>(Proficient)</i>, <b>French</b> 🇫🇷 <i>(Basic)</i>, <b>Greek</b> 🇬🇷 <i>(Native)</i>
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+  
+    - title: Business Analyst
+      institution: <a href="https://www.novibet.com/sports">Novibet</a>
+      year: 2023-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Business Analyst for <a href="https://www.novibet.com/sports">Novibet</a>, a large gambling company operating globally, currently in 10 countries all around the world.
+        - Analysis on projects mainly centred around Novibet’s <i>online payment system</i> as well as our <i>online casino platform</i> (encompassing a variety of games such as roulette, slots, bingo, etc).
+        - Recently had the opportunity to switch from a product owner role to business analysis and acquire experience in the whole project roadmap lifecycle.
+ 
+    - title: Product Owner
+      institution: <a href="https://www.novibet.com/sports">Novibet</a>
+      year: 2021-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Product owner for <a href="https://www.novibet.com/sports">Novibet</a> Casino team. Our team's mission is to maintain and develop our online Casino platform (see <a href="https://www.novibet.com/casino">here</a>).
+        - Participating in <b>product roadmap</b> planning and maintenance alongside multiple stakeholders, from business to cross-functional teams and global services partners.
+        - Translating product roadmap features into <b>product increments</b> including user <i>stories, features and acceptance test criteria</i>. Managing the team's backlog and facilitating <i>sprint planning, retrospectives</i> and other <i>scrum ceremonies</i>.
+        - Managing 3 large projects driven by external consultants, regarding the integration of casino game providers into <a href="https://www.novibet.com/sports">Novibet</a>'s Online Casino platform.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Equipment and Support Engineer
+      institution: <a href="https://www.opap.gr/">OPAP</a>
+      year: 2015-2020
       description:
+        - Working for <a href="https://www.opap.gr/">OPAP</a>, the largest gambling company in Greece, operating more than 4000 retail stores throughout Greece as well as <i>Online Casino</i> and <i>Sportsbook</i> platforms.
+        - Experienced multiple facets of the gambling sector, from equipment administration for <a href="https://en.wikipedia.org/wiki/Video_lottery_terminal">VLTs</a> (implementation of integration tests, acceptance criteria, hardware upgrades and software rollouts) to 2nd and 3rd-level technical support and documentation writing.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Network Engineer
+      institution: <a href="https://en.wikipedia.org/wiki/Wind_Hellas">Wind Hellas</a> | Teleperformance
+      year: 2015
+      description:
+        - Telephone support and guidance to on-site / field technicians to resolve incidents.
 
-- title: Open Source Projects
+
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Bachelor’s Degree in Telecommunications Systems and Computer Networks.
+      institution: Technological Educational Institute of Western Greece.
+      year: 2007-2012
+      description:
+        - Modules included <code>Programming</code>, <code>Networks</code>, <code>Databases</code>, <code>Algorithms and DataStructures</code>, <code>Operating Systems</code>, etc.
+        - The Technological Educational Institute of Western Greece is currently merged with the <a href="https://www.upatras.gr/en/">University of Patras</a>.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
-- title: Other Interests
+- title: Certificates
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - ✔ Professional Scrum Product Owner (PSPO II) - <i>Ongoing</i>
+    - ✔ Cisco Certified Entry Networking Technician (Cisco Networking and Switching 100–105) 
+
+
+- title: Interests
+  type: list
+  contents:
+    - Everything to do with Space 🪐, Stargazing 🔭, Passionate about animals 🦓.
