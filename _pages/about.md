@@ -19,9 +19,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi 👋, I am Angeliki, currently serving as a **Business Analyst** for <a href="https://www.novibet.com/sports">Novibet</a>, a premier online gambling company operating across multiple countries worldwide. Before undertaking my current role, I held the position of **Product Owner** at the same company, where I managed and executed a multitude of critical projects by leveraging my industry knowledge and analytical skills.
 
-Throughout my years in the *gambling industry*, I have gained a wide range of experiences and developed a deep understanding of its various intricacies. On the educational front, my journey began with a Bachelor's degree in **Networks and Communications** before I transitioned into business analysis and project management, roles that I have found both challenging and rewarding.
+Hi 👋, I am Angeliki. I am a **Business Analyst** / **Project Manager** with multiple year of experience within the *Online Gambling Industry*. I have held roles in both business analysis and project management with <a href="https://www.novibet.com/sports">Novibet</a>, a premier online gambling company operating across multiple countries worldwide.   
 
-Currently, I'm nestled in the beautiful heart of <span style="color:red">Luxembourg</span>. Passionate about all animals (particularly 🦩🦩🦩) and everything related to Space 🪐.
+Previously, I have also worked with <a href="https://www.opap.gr/en/">OPAP</a>, the largest Greek gambling organisation operating more than 4000 retail stores throughout the country, as well as *Online Casino* and *Sportsbook* platforms. Throughout my years in the *gambling industry*, I have gained a wide range of experiences and developed a deep understanding of its various intricacies. 
+
+On the educational front, I hold a Bachelor’s degree in **Networks and Communications.** Based in <span style="color:red">Luxembourg</span>.
 
